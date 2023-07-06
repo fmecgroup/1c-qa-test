@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # Scenario
 
 You are testing a simple 1C application named `LIBERATOR` that was created to record goods receipts.
