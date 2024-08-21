@@ -26,7 +26,7 @@ There are 2 access levels available within `LIBERATOR`:
 
 # Task
 
-Please access `LIBERATOR` [here](https://mars.fmecgroup.com/a/quality-test/en/)
+Please access `LIBERATOR` [here](https://fms.fmecgroup.com/ext/quality-test/en_GB/?oida-)
 
 1. Test `LIBERATOR` and produce test-report. We expect you to cover:
    - Application logic
