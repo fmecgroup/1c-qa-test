@@ -2,3 +2,6 @@
 /.vscode/
 /.metadata/
 ConfigDumpInfo.xml
+
+# macOS
+.DS_Store
